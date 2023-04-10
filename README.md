@@ -1,22 +1,4 @@
 # Khatera_Gallery
-Table of Contents
-Introduction ........................................................................................2
-Purpose ...............................................................................................2
-Project Scope ......................................................................................2
-Acronyms............................................................................................3
-References ..........................................................................................3
-Over All Description...........................................................................4
-Product perspective ..........................................................................4
-Product features................................................................................4
-Registration:.....................................................................................4
-Admin: .............................................................................................4
-user Module: ....................................................................................4
-Operating Environment....................................................................5
-Design and implementation constraints...............................................5
-External Interface Requirements.........................................................5
-User Interface...................................................................................5
-Hardware Interface...........................................................................5
-Communication Interface .................................................................5
 
 Introduction 
 Our project Khatera Gallery Website, is a source of photos for users of our 
@@ -63,11 +45,7 @@ DBMS: Database Management System
 SQL: – Structured Query Language
 GUI: - Graphical User Interface
 MS SQL: Microsoft Structured Query Language
-References 
-1. https://en.wikipedia.org
-2. www.google.com
-3. www.youtube.com
-Over All Description 
+
 Product perspective 
 Our goal by this website is to make old things digital in our society. We start by 
 searching found this project prefect and did our plans on it. So it is photo 
